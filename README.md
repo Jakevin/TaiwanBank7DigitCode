@@ -11,6 +11,11 @@
 
 小工具：[分行7碼查詢小工具](https://jakevin.github.io/azure-tts/bank-7-digit-code/index.html)
 
+### 2023-10-26
+更新資料 [來源:財金資訊股份有限公司](https://www.fisc.com.tw/TC/Service?CAID=51254999-5d15-4ddf-8e54-4b2cdb2a8399)
+
+增加 農會、漁會資料
+
 ### 2023-10-25
 更新資料 [來源:銀行局](https://www.banking.gov.tw/ch/home.jsp?id=642&parentpath=0%2C590%2C604&fbclid=IwAR36CUGhHH61s7ES1qK3wVDJrmXSzeaoFpKzNta6-ND7ZmNWVl8h5SWs_h4)
 
